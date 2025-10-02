@@ -5,6 +5,9 @@
 
 -Se connecter avec un client SSH comme Putty ou Bitvise.
 
+-Passer en admin (root) : (saisi du mot de passe requis)
+`sudo bash`
+
 -Aller au dossier home du compte administrateur (en générale c'est dans dans /share/CACHEDEV1_DATA/homes/admin) :
 `cd /share/CACHEDEV1_DATA/homes/admin`
 
